@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 Machine Learning [Machine_learning_study_plan](https://github.com/magdo24/Machine_learning_study_plan)
 
-- 👀 Data Science **🌱 DataCamp: Data scientist with python track. Intro to Python, Intermediate Python, Data Manipulation with Pandas, Web Scraping with Python.n**
+- 👀 Data Science **🌱 DataCamp: Data scientist with python track. Courses completed : Intro to Python, Intermediate Python, Data Manipulation with Pandas, Web Scraping with Python.n**
 
 - 👀 Python skillset documentation [Pyhtonjourney](https://github.com/magdo24/Pythonjourney)
 
